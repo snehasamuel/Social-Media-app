@@ -16,8 +16,8 @@ const Add = () => {
                     <input type="text" className="form-control"/>
                 </div>
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
-                    <label for="" className="form-label">Message</label>
-                    <input type="text" className="form-control"/>
+                    <label for="" className="form-label">Message</label><br></br>
+                    <textarea className='form-control' name="" id="" cols="30" rows="5"></textarea>
                 </div>
                 <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                     <button className="btn btn-primary">SUBMIT</button>
